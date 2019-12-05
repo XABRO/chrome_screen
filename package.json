@@ -1,0 +1,69 @@
+{
+  "_args": [
+    [
+      "@muaz-khan/getscreenid@1.0.0",
+      "/var/www/html/call/new-rtc"
+    ]
+  ],
+  "_from": "@muaz-khan/getscreenid@1.0.0",
+  "_id": "@muaz-khan/getscreenid@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-KpAP52ysVGajC4LQUni5bx0VYI/G641VyK864HLYgIRZvAmy0qf9uFcGGqr5Mwy/TK1e+VE+cl/mJn/M1U2LtA==",
+  "_location": "/@muaz-khan/getscreenid",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@muaz-khan/getscreenid@1.0.0",
+    "name": "@muaz-khan/getscreenid",
+    "escapedName": "@muaz-khan%2fgetscreenid",
+    "scope": "@muaz-khan",
+    "rawSpec": "1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "1.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@muaz-khan/getscreenid/-/getscreenid-1.0.0.tgz",
+  "_spec": "1.0.0",
+  "_where": "/var/www/html/call/new-rtc",
+  "analyze": false,
+  "author": {
+    "name": "Muaz Khan",
+    "email": "muazkh@gmail.com",
+    "url": "https://muazkhan.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/muaz-khan/getScreenId/issues",
+    "email": "muazkh@gmail.com"
+  },
+  "description": "Capture Screen on Any Domain! This script is a hack used to support single chrome extension usage on any HTTPs domain.",
+  "homepage": "https://www.webrtc-experiment.com/getScreenId/",
+  "keywords": [
+    "webrtc",
+    "getscreenid",
+    "get-screen-id",
+    "webrtc-library",
+    "library",
+    "javascript",
+    "rtcweb",
+    "webrtc-experiment",
+    "javascript-library",
+    "muaz",
+    "muaz-khan"
+  ],
+  "license": "MIT",
+  "main": "getScreenId.js",
+  "name": "@muaz-khan/getscreenid",
+  "preferGlobal": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muaz-khan/getScreenId.git"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "protractor test/browserstack.config.js"
+  },
+  "version": "1.0.0"
+}
